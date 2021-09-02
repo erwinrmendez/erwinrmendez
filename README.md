@@ -1,5 +1,4 @@
 ### Hola, soy Erwin! 👋
-<br/>
 
 # I am a Data Analyst and Front-End Developer
 

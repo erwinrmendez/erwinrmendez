@@ -1,7 +1,7 @@
 ### ¡Hola, soy Erwin! 👋
 
 
-## I am a Data Analyst and Front-End Developer
+## Front-End Developer and Consultant
 
 - 👨‍💻 Currently working as a Web Development Consultant at Agencia Crece.
 - 📊 Interested in everything related to data analytics, web development, and research.

@@ -3,7 +3,7 @@
 
 ## Front-End Developer and Consultant
 
-- 👨‍💻 Currently working as a Web Development Consultant at Agencia Crece.
+- 👨‍💻 Currently working as a Web Developer at Agencia Crece.
 - 📊 Interested in everything related to data analytics, web development, and research.
 - 🤝 Looking for opportunities to collaborate in new and exciting projects.
 - 📃 Aspiring to become a full-time researcher.

@@ -1,7 +1,7 @@
 ### ¡Hola, soy Erwin! 👋
 
 
-## Front-End Developer and Consultant
+## Frontend Developer and Consultant
 
 - 👨‍💻 Currently working as a Frontend Developer @ [Cardlay](https://www.cardlay.com/).
 - 📊 Interested in everything related to data analytics, web development, and research.
